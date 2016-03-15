@@ -1,3 +1,4 @@
+//Some comment
 'use strict';
 
 var Fraction = require('fraction.js');

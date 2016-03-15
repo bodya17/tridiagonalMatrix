@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fraction.js": "^3.2.5",
-    "solve-tridiagonal": "^2.0.0"
+    "fraction.js": "^3.2.5"
   }
 }
